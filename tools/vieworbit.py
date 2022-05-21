@@ -52,9 +52,6 @@ else:
     exit()
 
 
-
-
-
 print(f'Resolved keplerian elements:\n\
 Eccentricity:  {e}\n\
 Semi-Major:    {a}\n\
