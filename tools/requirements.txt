@@ -1,0 +1,2 @@
+poliastro==0.16.3
+astropy==5.0.4
